@@ -1,0 +1,12 @@
+prefix="/d/devandroid/local/freetype-2.5.2"
+exec_prefix="/d/devandroid/local/freetype-2.5.2"
+libdir="/d/devandroid/local/freetype-2.5.2/lib"
+includedir="/d/devandroid/local/freetype-2.5.2/include/freetype2"
+
+Name: FreeType 2
+Description: A free, high-quality, and portable font engine.
+Version: 17.1.11
+Requires:
+Libs: -L${libdir} -lfreetype
+Libs.private:    
+Cflags: -I${includedir}
