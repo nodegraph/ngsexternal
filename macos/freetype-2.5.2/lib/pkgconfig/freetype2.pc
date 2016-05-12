@@ -1,0 +1,12 @@
+prefix="/Users/raindrop/src/local/freetype-2.5.2"
+exec_prefix="/Users/raindrop/src/local/freetype-2.5.2"
+libdir="/Users/raindrop/src/local/freetype-2.5.2/lib"
+includedir="/Users/raindrop/src/local/freetype-2.5.2/include/freetype2"
+
+Name: FreeType 2
+Description: A free, high-quality, and portable font engine.
+Version: 17.1.11
+Requires:
+Libs: -L${libdir} -lfreetype
+Libs.private: -lz -lbz2 -lpng15 
+Cflags: -I${includedir}

@@ -1,0 +1,11 @@
+prefix=/Users/raindrop/src/local/glew-1.13.0
+exec_prefix=${prefix}
+libdir=/Users/raindrop/src/local/glew-1.13.0/lib
+includedir=${prefix}/include
+
+Name: glew
+Description: The OpenGL Extension Wrangler library
+Version: 1.13.0
+Cflags: -I${includedir} -DGLEW_MX
+Libs: -L${libdir} -lGLEWmx
+Requires: glu
