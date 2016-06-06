@@ -1,0 +1,66 @@
+﻿  version.c
+     Creating library D:\dev\windows\libsodium-1.0.10\Build\ReleaseDLL\Win32\libsodium.lib and object D:\dev\windows\libsodium-1.0.10\Build\ReleaseDLL\Win32\libsodium.exp
+  Generating code
+  All 638 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  libsodium.vcxproj -> D:\dev\windows\libsodium-1.0.10\Build\ReleaseDLL\Win32\libsodium.dll
+  Running the test suite:
+  aead_aes256gcm.c ok
+  aead_chacha20poly1305.c ok
+  auth.c ok
+  auth2.c ok
+  auth3.c ok
+  auth5.c ok
+  auth6.c ok
+  auth7.c ok
+  box.c ok
+  box2.c ok
+  box7.c ok
+  box8.c ok
+  box_easy.c ok
+  box_easy2.c ok
+  box_seal.c ok
+  box_seed.c ok
+  chacha20.c ok
+  core1.c ok
+  core2.c ok
+  core3.c ok
+  core4.c ok
+  core5.c ok
+  core6.c ok
+  ed25519_convert.c ok
+  generichash.c ok
+  generichash2.c ok
+  generichash3.c ok
+  hash.c ok
+  hash3.c ok
+  onetimeauth.c ok
+  onetimeauth2.c ok
+  onetimeauth7.c ok
+  pwhash.c ok
+  pwhash_scrypt.c ok
+  pwhash_scrypt_ll.c ok
+  randombytes.c ok
+  scalarmult.c ok
+  scalarmult2.c ok
+  scalarmult5.c ok
+  scalarmult6.c ok
+  scalarmult7.c ok
+  secretbox.c ok
+  secretbox2.c ok
+  secretbox7.c ok
+  secretbox8.c ok
+  secretbox_easy.c ok
+  secretbox_easy2.c ok
+  shorthash.c ok
+  sign.c ok
+  sodium_core.c ok
+  sodium_utils.c ok
+  sodium_utils2.c ok
+  sodium_utils3.c ok
+  sodium_version.c ok
+  stream.c ok
+  stream2.c ok
+  stream3.c ok
+  stream4.c ok
+  verify1.c ok

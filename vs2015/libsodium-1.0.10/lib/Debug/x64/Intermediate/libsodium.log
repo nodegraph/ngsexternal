@@ -1,0 +1,154 @@
+﻿cl : Command line warning D9030: '/Gm' is incompatible with multiprocessing; ignoring /MP switch
+  version.c
+  utils.c
+d:\dev\windows\libsodium-1.0.10\src\libsodium\sodium\utils.c(110): warning C4197: 'volatile const unsigned char *volatile ': top-level volatile in cast is ignored
+d:\dev\windows\libsodium-1.0.10\src\libsodium\sodium\utils.c(112): warning C4197: 'volatile const unsigned char *volatile ': top-level volatile in cast is ignored
+d:\dev\windows\libsodium-1.0.10\src\libsodium\sodium\utils.c(146): warning C4197: 'volatile const unsigned char *volatile ': top-level volatile in cast is ignored
+d:\dev\windows\libsodium-1.0.10\src\libsodium\sodium\utils.c(148): warning C4197: 'volatile const unsigned char *volatile ': top-level volatile in cast is ignored
+  runtime.c
+  core.c
+  randombytes_sysrandom.c
+  randombytes_salsa20_random.c
+  randombytes.c
+d:\dev\windows\libsodium-1.0.10\src\libsodium\randombytes\randombytes.c(125): warning C4146: unary minus operator applied to unsigned type, result still unsigned
+  verify_64_api.c
+  verify_64.c
+  verify_32_api.c
+  verify_32.c
+  verify_16_api.c
+  verify_16.c
+  stream_xsalsa20_api.c
+  xor_xsalsa20.c
+  stream_xsalsa20.c
+  stream_salsa20_api.c
+  xor_salsa20_ref.c
+  stream_salsa20_ref.c
+  stream_salsa208_api.c
+  Generating Code...
+  Compiling...
+  xor_salsa208.c
+  stream_salsa208.c
+  stream_salsa2012_api.c
+  xor_salsa2012.c
+  stream_salsa2012.c
+  crypto_stream.c
+  stream_chacha20.c
+  stream_chacha20_ref.c
+  stream_aes128ctr_api.c
+  xor_afternm_aes128ctr.c
+  stream_aes128ctr.c
+  int128_aes128ctr.c
+  consts_aes128ctr.c
+  beforenm_aes128ctr.c
+  afternm_aes128ctr.c
+  sign_ed25519_api.c
+  sign.c
+  open.c
+  obsolete.c
+  keypair.c
+  Generating Code...
+  Compiling...
+  crypto_sign.c
+  shorthash_siphash24_api.c
+  shorthash_siphash24.c
+  crypto_shorthash.c
+  secretbox_xsalsa20poly1305_api.c
+  box_xsalsa20poly1305.c
+  crypto_secretbox_easy.c
+  crypto_secretbox.c
+  scalarmult_curve25519.c
+  fe_frombytes_sandy2x.c
+  fe51_invert.c
+  curve25519_sandy2x.c
+  x25519_ref10.c
+  curve25519_donna_c64.c
+  crypto_scalarmult.c
+  pwhash_scryptsalsa208sha256_sse.c
+  scrypt_platform.c
+  pwhash_scryptsalsa208sha256.c
+  pbkdf2-sha256.c
+  pwhash_scryptsalsa208sha256_nosse.c
+  Generating Code...
+  Compiling...
+  crypto_scrypt-common.c
+  crypto_pwhash.c
+  pwhash_argon2i.c
+  blake2b-long.c
+  argon2.c
+  argon2-fill-block-ssse3.c
+d:\dev\windows\libsodium-1.0.10\src\libsodium\crypto_pwhash\argon2\argon2-fill-block-ssse3.c(21): warning C4068: unknown pragma
+d:\dev\windows\libsodium-1.0.10\src\libsodium\crypto_pwhash\argon2\argon2-fill-block-ssse3.c(22): warning C4068: unknown pragma
+  argon2-fill-block-ref.c
+  argon2-encoding.c
+  argon2-core.c
+  onetimeauth_poly1305.c
+  poly1305_donna.c
+  crypto_onetimeauth.c
+  hash_sha512.c
+  hash_sha512_api.c
+  hash_sha256.c
+  hash_sha256_api.c
+  crypto_hash.c
+  crypto_generichash.c
+  generichash_blake2b.c
+  blake2b-ref.c
+  Generating Code...
+  Compiling...
+  blake2b-compress-ssse3.c
+d:\dev\windows\libsodium-1.0.10\src\libsodium\crypto_generichash\blake2\ref\blake2b-compress-ssse3.c(8): warning C4068: unknown pragma
+d:\dev\windows\libsodium-1.0.10\src\libsodium\crypto_generichash\blake2\ref\blake2b-compress-ssse3.c(9): warning C4068: unknown pragma
+  blake2b-compress-sse41.c
+d:\dev\windows\libsodium-1.0.10\src\libsodium\crypto_generichash\blake2\ref\blake2b-compress-sse41.c(11): warning C4068: unknown pragma
+d:\dev\windows\libsodium-1.0.10\src\libsodium\crypto_generichash\blake2\ref\blake2b-compress-sse41.c(12): warning C4068: unknown pragma
+d:\dev\windows\libsodium-1.0.10\src\libsodium\crypto_generichash\blake2\ref\blake2b-compress-sse41.c(13): warning C4068: unknown pragma
+  blake2b-compress-avx2.c
+d:\dev\windows\libsodium-1.0.10\src\libsodium\crypto_generichash\blake2\ref\blake2b-compress-avx2.c(12): warning C4068: unknown pragma
+d:\dev\windows\libsodium-1.0.10\src\libsodium\crypto_generichash\blake2\ref\blake2b-compress-avx2.c(13): warning C4068: unknown pragma
+d:\dev\windows\libsodium-1.0.10\src\libsodium\crypto_generichash\blake2\ref\blake2b-compress-avx2.c(14): warning C4068: unknown pragma
+d:\dev\windows\libsodium-1.0.10\src\libsodium\crypto_generichash\blake2\ref\blake2b-compress-avx2.c(15): warning C4068: unknown pragma
+  blake2b-compress-ref.c
+  generichash_blake2_api.c
+  core_salsa20.c
+  core_salsa20_api.c
+  core_salsa208.c
+  core_salsa208_api.c
+  core_salsa2012.c
+  core_salsa2012_api.c
+  core_hsalsa20.c
+  core_hsalsa20_api.c
+  core_hchacha20.c
+  curve25519_ref10.c
+  keypair_curve25519xsalsa20poly1305.c
+  box_curve25519xsalsa20poly1305.c
+  before_curve25519xsalsa20poly1305.c
+  after_curve25519xsalsa20poly1305.c
+  box_curve25519xsalsa20poly1305_api.c
+  Generating Code...
+d:\dev\windows\libsodium-1.0.10\src\libsodium\crypto_generichash\blake2\ref\blake2b-compress-avx2.c(38): warning C4752: found Intel(R) Advanced Vector Extensions; consider using /arch:AVX
+  Compiling...
+  crypto_box_seal.c
+  crypto_box_easy.c
+  crypto_box.c
+  verify_hmacsha512256.c
+  hmac_hmacsha512256.c
+  auth_hmacsha512256_api.c
+  verify_hmacsha512.c
+  hmac_hmacsha512.c
+  auth_hmacsha512_api.c
+  verify_hmacsha256.c
+  hmac_hmacsha256.c
+  auth_hmacsha256_api.c
+  crypto_auth.c
+  aead_chacha20poly1305.c
+  aead_aes256gcm_aesni.c
+d:\dev\windows\libsodium-1.0.10\src\libsodium\crypto_aead\aes256gcm\aesni\aead_aes256gcm_aesni.c(19): warning C4068: unknown pragma
+d:\dev\windows\libsodium-1.0.10\src\libsodium\crypto_aead\aes256gcm\aesni\aead_aes256gcm_aesni.c(20): warning C4068: unknown pragma
+d:\dev\windows\libsodium-1.0.10\src\libsodium\crypto_aead\aes256gcm\aesni\aead_aes256gcm_aesni.c(21): warning C4068: unknown pragma
+d:\dev\windows\libsodium-1.0.10\src\libsodium\crypto_aead\aes256gcm\aesni\aead_aes256gcm_aesni.c(123): warning C4068: unknown pragma
+  Generating Code...
+  libsodium.vcxproj -> D:\dev\windows\libsodium-1.0.10\Build\Debug\x64\libsodium.lib
+  Running the test suite:
+  aead_aes256gcm.c ok
+  aead_chacha20poly1305.c ok
+  auth.c ok
+  auth2.c compile failed

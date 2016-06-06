@@ -1,0 +1,201 @@
+﻿  aead_aes256gcm_aesni.c
+src\libsodium\crypto_aead\aes256gcm\aesni\aead_aes256gcm_aesni.c(19): warning C4068: unknown pragma
+src\libsodium\crypto_aead\aes256gcm\aesni\aead_aes256gcm_aesni.c(20): warning C4068: unknown pragma
+  aead_chacha20poly1305.c
+src\libsodium\crypto_aead\aes256gcm\aesni\aead_aes256gcm_aesni.c(21): warning C4068: unknown pragma
+  crypto_auth.c
+src\libsodium\crypto_aead\aes256gcm\aesni\aead_aes256gcm_aesni.c(123): warning C4068: unknown pragma
+  auth_hmacsha256_api.c
+  hmac_hmacsha256.c
+  verify_hmacsha256.c
+  auth_hmacsha512_api.c
+  hmac_hmacsha512.c
+  verify_hmacsha512.c
+  auth_hmacsha512256_api.c
+  hmac_hmacsha512256.c
+  verify_hmacsha512256.c
+  crypto_box.c
+  crypto_box_easy.c
+  crypto_box_seal.c
+  box_curve25519xsalsa20poly1305_api.c
+  after_curve25519xsalsa20poly1305.c
+  before_curve25519xsalsa20poly1305.c
+  box_curve25519xsalsa20poly1305.c
+  keypair_curve25519xsalsa20poly1305.c
+  curve25519_ref10.c
+  core_hchacha20.c
+  core_hsalsa20_api.c
+  core_hsalsa20.c
+  core_salsa2012_api.c
+  core_salsa2012.c
+  core_salsa208_api.c
+  core_salsa208.c
+  core_salsa20_api.c
+  core_salsa20.c
+  generichash_blake2_api.c
+  blake2b-compress-ref.c
+  blake2b-compress-avx2.c
+  blake2b-compress-sse41.c
+  blake2b-compress-ssse3.c
+  blake2b-ref.c
+  generichash_blake2b.c
+  crypto_generichash.c
+  crypto_hash.c
+  hash_sha256_api.c
+  hash_sha256.c
+  hash_sha512_api.c
+  hash_sha512.c
+src\libsodium\crypto_generichash\blake2\ref\blake2b-compress-sse41.c(11): warning C4068: unknown pragma
+src\libsodium\crypto_generichash\blake2\ref\blake2b-compress-sse41.c(12): warning C4068: unknown pragma
+src\libsodium\crypto_generichash\blake2\ref\blake2b-compress-sse41.c(13): warning C4068: unknown pragma
+src\libsodium\crypto_generichash\blake2\ref\blake2b-compress-avx2.c(12): warning C4068: unknown pragma
+src\libsodium\crypto_generichash\blake2\ref\blake2b-compress-avx2.c(13): warning C4068: unknown pragma
+src\libsodium\crypto_generichash\blake2\ref\blake2b-compress-avx2.c(14): warning C4068: unknown pragma
+src\libsodium\crypto_generichash\blake2\ref\blake2b-compress-avx2.c(15): warning C4068: unknown pragma
+  crypto_onetimeauth.c
+  poly1305_donna.c
+  onetimeauth_poly1305.c
+  argon2-core.c
+  argon2-encoding.c
+  argon2-fill-block-ref.c
+  argon2-fill-block-ssse3.c
+  argon2.c
+src\libsodium\crypto_generichash\blake2\ref\blake2b-compress-ssse3.c(8): warning C4068: unknown pragma
+src\libsodium\crypto_generichash\blake2\ref\blake2b-compress-ssse3.c(9): warning C4068: unknown pragma
+  blake2b-long.c
+  pwhash_argon2i.c
+  crypto_pwhash.c
+  crypto_scrypt-common.c
+  pwhash_scryptsalsa208sha256_nosse.c
+  pbkdf2-sha256.c
+  pwhash_scryptsalsa208sha256.c
+  scrypt_platform.c
+  pwhash_scryptsalsa208sha256_sse.c
+  crypto_scalarmult.c
+  curve25519_donna_c64.c
+  x25519_ref10.c
+src\libsodium\crypto_pwhash\argon2\argon2-fill-block-ssse3.c(21): warning C4068: unknown pragma
+src\libsodium\crypto_pwhash\argon2\argon2-fill-block-ssse3.c(22): warning C4068: unknown pragma
+  curve25519_sandy2x.c
+  fe51_invert.c
+  fe_frombytes_sandy2x.c
+  scalarmult_curve25519.c
+  crypto_secretbox.c
+  crypto_secretbox_easy.c
+  box_xsalsa20poly1305.c
+  secretbox_xsalsa20poly1305_api.c
+  crypto_shorthash.c
+  shorthash_siphash24.c
+  shorthash_siphash24_api.c
+  crypto_sign.c
+  keypair.c
+  obsolete.c
+  open.c
+  sign.c
+  sign_ed25519_api.c
+  afternm_aes128ctr.c
+  beforenm_aes128ctr.c
+  consts_aes128ctr.c
+  int128_aes128ctr.c
+  stream_aes128ctr.c
+  xor_afternm_aes128ctr.c
+  stream_aes128ctr_api.c
+  stream_chacha20_ref.c
+  stream_chacha20.c
+  crypto_stream.c
+  stream_salsa2012.c
+  xor_salsa2012.c
+  stream_salsa2012_api.c
+  stream_salsa208.c
+  xor_salsa208.c
+  stream_salsa208_api.c
+  stream_salsa20_ref.c
+  xor_salsa20_ref.c
+  stream_salsa20_api.c
+  stream_xsalsa20.c
+  xor_xsalsa20.c
+  stream_xsalsa20_api.c
+  verify_16.c
+  verify_16_api.c
+  verify_32.c
+  verify_32_api.c
+  verify_64.c
+  verify_64_api.c
+  randombytes.c
+  randombytes_salsa20_random.c
+  randombytes_sysrandom.c
+  core.c
+  runtime.c
+  utils.c
+  version.c
+src\libsodium\randombytes\randombytes.c(125): warning C4146: unary minus operator applied to unsigned type, result still unsigned
+src\libsodium\sodium\utils.c(110): warning C4197: 'volatile const unsigned char *volatile ': top-level volatile in cast is ignored
+src\libsodium\sodium\utils.c(112): warning C4197: 'volatile const unsigned char *volatile ': top-level volatile in cast is ignored
+src\libsodium\sodium\utils.c(146): warning C4197: 'volatile const unsigned char *volatile ': top-level volatile in cast is ignored
+src\libsodium\sodium\utils.c(148): warning C4197: 'volatile const unsigned char *volatile ': top-level volatile in cast is ignored
+     Creating library D:\dev\windows\libsodium-1.0.10\Build\ReleaseDLL\x64\libsodium.lib and object D:\dev\windows\libsodium-1.0.10\Build\ReleaseDLL\x64\libsodium.exp
+  Generating code
+d:\dev\windows\libsodium-1.0.10\src\libsodium\crypto_generichash\blake2\ref\blake2b-compress-avx2.c(38): warning C4752: found Intel(R) Advanced Vector Extensions; consider using /arch:AVX
+  All 640 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  libsodium.vcxproj -> D:\dev\windows\libsodium-1.0.10\Build\ReleaseDLL\x64\libsodium.dll
+  Running the test suite:
+  aead_aes256gcm.c ok
+  aead_chacha20poly1305.c ok
+  auth.c ok
+  auth2.c ok
+  auth3.c ok
+  auth5.c ok
+  auth6.c ok
+  auth7.c ok
+  box.c ok
+  box2.c ok
+  box7.c ok
+  box8.c ok
+  box_easy.c ok
+  box_easy2.c ok
+  box_seal.c ok
+  box_seed.c ok
+  chacha20.c ok
+  core1.c ok
+  core2.c ok
+  core3.c ok
+  core4.c ok
+  core5.c ok
+  core6.c ok
+  ed25519_convert.c ok
+  generichash.c ok
+  generichash2.c ok
+  generichash3.c ok
+  hash.c ok
+  hash3.c ok
+  onetimeauth.c ok
+  onetimeauth2.c ok
+  onetimeauth7.c ok
+  pwhash.c ok
+  pwhash_scrypt.c ok
+  pwhash_scrypt_ll.c ok
+  randombytes.c ok
+  scalarmult.c ok
+  scalarmult2.c ok
+  scalarmult5.c ok
+  scalarmult6.c ok
+  scalarmult7.c ok
+  secretbox.c ok
+  secretbox2.c ok
+  secretbox7.c ok
+  secretbox8.c ok
+  secretbox_easy.c ok
+  secretbox_easy2.c ok
+  shorthash.c ok
+  sign.c ok
+  sodium_core.c ok
+  sodium_utils.c ok
+  sodium_utils2.c ok
+  sodium_utils3.c ok
+  sodium_version.c ok
+  stream.c ok
+  stream2.c ok
+  stream3.c ok
+  stream4.c ok
+  verify1.c ok
