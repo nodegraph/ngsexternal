@@ -1,3 +1,0 @@
-- built using an opensource build script from github
-- project is called android-openssl-qt
-- located at: https://github.com/ekke/android-openssl-qt
